@@ -68,6 +68,7 @@ To select a device that performs the authenticated network scans:
     - `*.security.microsoft.com`
     - `login.microsoftonline.com`
     - `*.blob.core.windows.net/networkscannerstable/*`
+    - `*.mdiot.microsoft.com`
 
     > [!NOTE]
     > Not all URLs are specified in the Defender for Endpoint documented list of allowed data collection.
